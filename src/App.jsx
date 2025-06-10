@@ -8,7 +8,7 @@ import { routeArray } from './config/routes';
 function App() {
   return (
     <BrowserRouter>
-      <div className="min-h-screen bg-surface-900 text-white">
+      <div className="bg-surface-900 text-white">
         <Routes>
           <Route path="/" element={<Layout />}>
 <Route index element={<HomePage />} />
