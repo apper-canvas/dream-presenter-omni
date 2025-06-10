@@ -1,0 +1,83 @@
+[
+  {
+    "id": "hero",
+    "type": "hero",
+    "title": "Dreamwares",
+    "content": {
+      "title": "Dreamwares",
+      "subtitle": "Transforming Digital Dreams into Reality with Cutting-Edge Web Solutions",
+      "cta": "Explore Our Services"
+    },
+    "duration": 6000
+  },
+  {
+    "id": "services",
+    "type": "services", 
+    "title": "Our Services",
+    "content": {
+      "title": "What We Do",
+      "subtitle": "Comprehensive digital solutions tailored to elevate your business in the modern marketplace"
+    },
+    "duration": 6000
+  },
+  {
+    "id": "portfolio",
+    "type": "portfolio",
+    "title": "Our Work",
+    "content": {
+      "title": "Featured Projects",
+      "subtitle": "Showcasing our expertise through successful client partnerships and innovative solutions"
+    },
+    "duration": 6000
+  },
+  {
+    "id": "about",
+    "type": "about",
+    "title": "About Dreamwares",
+    "content": {
+      "title": "About Dreamwares",
+      "description": [
+        "At Dreamwares, we specialize in creating exceptional digital experiences that drive business growth and user engagement. Our team of expert developers and designers work collaboratively to bring your vision to life.",
+        "With years of experience in web development, mobile applications, and digital transformation, we understand the unique challenges businesses face in today's digital landscape.",
+        "Our mission is to empower businesses with innovative technology solutions that not only meet current needs but also prepare them for future growth and success."
+      ],
+      "stats": [
+        { "value": "150+", "label": "Projects Completed" },
+        { "value": "95%", "label": "Client Satisfaction" },
+        { "value": "24/7", "label": "Support Available" },
+        { "value": "5+", "label": "Years Experience" }
+      ]
+    },
+    "duration": 6000
+  },
+  {
+    "id": "contact",
+    "type": "contact",
+    "title": "Get In Touch",
+    "content": {
+      "title": "Let's Build Something Amazing",
+      "subtitle": "Ready to transform your digital presence? Get in touch with our team to discuss your project requirements.",
+      "methods": [
+        {
+          "icon": "Mail",
+          "label": "Email Us",
+          "value": "info@dreamwares.com",
+          "link": "mailto:info@dreamwares.com"
+        },
+        {
+          "icon": "Phone",
+          "label": "Call Us",
+          "value": "+1 (555) 123-4567",
+          "link": "tel:+15551234567"
+        },
+        {
+          "icon": "Globe",
+          "label": "Visit Website",
+          "value": "dreamwares.com",
+          "link": "https://dreamwares.com"
+        }
+      ]
+    },
+    "duration": 6000
+  }
+]

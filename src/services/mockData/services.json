@@ -1,0 +1,80 @@
+[
+  {
+    "id": "web-development",
+    "name": "Web Development",
+    "description": "Custom web applications built with modern technologies and best practices for performance, security, and scalability.",
+    "icon": "Code",
+    "features": [
+      "Responsive Design",
+      "Performance Optimization",
+      "SEO-Friendly Architecture",
+      "Cross-Browser Compatibility",
+      "Modern JavaScript Frameworks"
+    ]
+  },
+  {
+    "id": "mobile-apps",
+    "name": "Mobile Applications",
+    "description": "Native and cross-platform mobile apps that deliver exceptional user experiences across iOS and Android devices.",
+    "icon": "Smartphone",
+    "features": [
+      "iOS & Android Development",
+      "Cross-Platform Solutions",
+      "App Store Optimization",
+      "Push Notifications",
+      "Offline Functionality"
+    ]
+  },
+  {
+    "id": "ui-ux-design",
+    "name": "UI/UX Design",
+    "description": "User-centered design solutions that combine beautiful aesthetics with intuitive functionality to enhance user engagement.",
+    "icon": "Palette",
+    "features": [
+      "User Research & Analysis",
+      "Wireframing & Prototyping",
+      "Visual Design Systems",
+      "Usability Testing",
+      "Accessibility Standards"
+    ]
+  },
+  {
+    "id": "ecommerce",
+    "name": "E-Commerce Solutions",
+    "description": "Complete e-commerce platforms with secure payment processing, inventory management, and customer relationship tools.",
+    "icon": "ShoppingCart",
+    "features": [
+      "Secure Payment Integration",
+      "Inventory Management",
+      "Customer Analytics",
+      "Multi-Channel Support",
+      "Performance Optimization"
+    ]
+  },
+  {
+    "id": "cloud-solutions",
+    "name": "Cloud Solutions",
+    "description": "Scalable cloud infrastructure and deployment strategies that ensure your applications are fast, secure, and always available.",
+    "icon": "Cloud",
+    "features": [
+      "AWS/Azure Integration",
+      "Auto-Scaling Infrastructure",
+      "Data Backup & Recovery",
+      "Security & Compliance",
+      "24/7 Monitoring"
+    ]
+  },
+  {
+    "id": "consulting",
+    "name": "Digital Consulting",
+    "description": "Strategic technology consulting to help businesses navigate digital transformation and optimize their tech stack.",
+    "icon": "Users",
+    "features": [
+      "Technology Assessment",
+      "Digital Strategy Planning",
+      "Process Optimization",
+      "Team Training",
+      "Ongoing Support"
+    ]
+  }
+]

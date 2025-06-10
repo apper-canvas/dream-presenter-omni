@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fintech-dashboard",
+    "title": "FinTech Analytics Dashboard",
+    "description": "A comprehensive financial analytics platform featuring real-time data visualization, portfolio management, and risk assessment tools for investment professionals.",
+    "imageUrl": "/api/placeholder/400/300",
+    "technologies": ["React", "TypeScript", "D3.js", "Node.js", "PostgreSQL"]
+  },
+  {
+    "id": "healthcare-portal",
+    "title": "Healthcare Patient Portal",
+    "description": "HIPAA-compliant patient management system with appointment scheduling, telemedicine integration, and secure messaging between patients and healthcare providers.",
+    "imageUrl": "/api/placeholder/400/300",
+    "technologies": ["Vue.js", "Python", "Django", "WebRTC", "Redis"]
+  },
+  {
+    "id": "ecommerce-platform",
+    "title": "Multi-Vendor E-Commerce",
+    "description": "Scalable marketplace platform supporting multiple vendors, advanced search capabilities, real-time inventory management, and integrated payment processing.",
+    "imageUrl": "/api/placeholder/400/300",
+    "technologies": ["Next.js", "Stripe", "MongoDB", "AWS", "Docker"]
+  },
+  {
+    "id": "education-lms",
+    "title": "Learning Management System",
+    "description": "Interactive online learning platform with video streaming, progress tracking, assignments, and collaborative tools for educational institutions.",
+    "imageUrl": "/api/placeholder/400/300",
+    "technologies": ["Angular", "Firebase", "WebRTC", "Node.js", "GraphQL"]
+  },
+  {
+    "id": "logistics-tracking",
+    "title": "Supply Chain Tracker",
+    "description": "Real-time logistics and supply chain management system with GPS tracking, route optimization, and predictive analytics for delivery companies.",
+    "imageUrl": "/api/placeholder/400/300",
+    "technologies": ["React Native", "Express.js", "MySQL", "Google Maps", "Socket.io"]
+  },
+  {
+    "id": "social-platform",
+    "title": "Professional Network",
+    "description": "Social networking platform for professionals with job matching algorithms, skill endorsements, and industry-specific discussion forums.",
+    "imageUrl": "/api/placeholder/400/300",
+    "technologies": ["Svelte", "FastAPI", "Elasticsearch", "Kubernetes", "TensorFlow"]
+  }
+]
