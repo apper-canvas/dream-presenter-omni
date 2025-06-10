@@ -1,9 +1,10 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import MainFeature from '../components/MainFeature';
-import ApperIcon from '../components/ApperIcon';
+import MainContentPresenter from '@/components/organisms/MainContentPresenter';
+import ApperIcon from '@/components/ApperIcon';
+import Button from '@/components/atoms/Button';
 
-const Home = () => {
+const HomePage = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
   const [isAutoPlaying, setIsAutoPlaying] = useState(true);
 
@@ -74,25 +75,25 @@ const Home = () => {
       </div>
 
       {/* Main Presentation */}
-      <MainFeature currentSlide={currentSlide} />
+      <MainContentPresenter currentSlide={currentSlide} />
 
       {/* Navigation Controls */}
       <div className="fixed bottom-8 left-1/2 transform -translate-x-1/2 z-50">
         <div className="glass rounded-full px-6 py-3 flex items-center space-x-4">
           {/* Previous Button */}
-          <motion.button
+          <Button
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
             onClick={prevSlide}
             className="p-2 rounded-full bg-white/10 hover:bg-white/20 transition-colors"
           >
             <ApperIcon name="ChevronLeft" size={20} />
-          </motion.button>
+          </Button>
 
           {/* Slide Indicators */}
           <div className="flex space-x-2">
             {[...Array(5)].map((_, i) => (
-              <motion.button
+              <Button
                 key={i}
                 whileHover={{ scale: 1.2 }}
                 whileTap={{ scale: 0.8 }}
@@ -107,17 +108,17 @@ const Home = () => {
           </div>
 
           {/* Next Button */}
-          <motion.button
+          <Button
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
             onClick={nextSlide}
             className="p-2 rounded-full bg-white/10 hover:bg-white/20 transition-colors"
           >
             <ApperIcon name="ChevronRight" size={20} />
-          </motion.button>
+          </Button>
 
           {/* Auto-play Toggle */}
-          <motion.button
+          <Button
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
             onClick={() => setIsAutoPlaying(!isAutoPlaying)}
@@ -128,7 +129,7 @@ const Home = () => {
             }`}
           >
             <ApperIcon name={isAutoPlaying ? "Pause" : "Play"} size={16} />
-          </motion.button>
+          </Button>
         </div>
       </div>
 
@@ -152,4 +153,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default HomePage;
