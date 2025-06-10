@@ -1,22 +1,22 @@
 [
   {
-    "id": "hero",
+"id": "hero",
     "type": "hero",
     "title": "Dreamwares",
-"content": {
+    "content": {
       "title": "Dreamwares",
-      "subtitle": "Transforming Businesses Through Innovative Digital Solutions & Expert Development Services",
-      "cta": "Discover Our Expertise"
+      "subtitle": "Leading Salesforce Development Service Provider in India - Transforming Businesses with Expert Salesforce Solutions & Custom Development",
+      "cta": "Discover Our Salesforce Expertise"
     },
     "duration": 6000
   },
   {
-    "id": "services",
+"id": "services",
     "type": "services", 
     "title": "Our Expertise",
     "content": {
-      "title": "Our Expertise",
-      "subtitle": "Comprehensive technology solutions delivering measurable results for businesses across industries. From web development to digital transformation - we make your vision reality."
+      "title": "Our Salesforce Expertise",
+      "subtitle": "Comprehensive Salesforce solutions delivering measurable business results across India and globally. From Sales Cloud implementation to custom development - we transform your Salesforce vision into reality."
     },
     "duration": 8000
   },
@@ -31,32 +31,32 @@
     "duration": 6000
   },
   {
-    "id": "about",
+"id": "about",
     "type": "about",
     "title": "About Dreamwares",
     "content": {
       "title": "About Dreamwares",
       "description": [
-        "At Dreamwares, we specialize in creating exceptional digital experiences that drive business growth and user engagement. Our team of expert developers and designers work collaboratively to bring your vision to life.",
-        "With years of experience in web development, mobile applications, and digital transformation, we understand the unique challenges businesses face in today's digital landscape.",
-        "Our mission is to empower businesses with innovative technology solutions that not only meet current needs but also prepare them for future growth and success."
+        "Based in India, Dreamwares is a leading Salesforce Development Service Provider specializing in comprehensive Salesforce solutions that drive business transformation and growth. Our certified Salesforce experts deliver world-class implementations and customizations.",
+        "With extensive experience in Salesforce Sales Cloud, Service Cloud, custom app development, and integrations, we understand the unique challenges businesses face in leveraging the Salesforce platform effectively.",
+        "Our mission is to empower businesses across India and globally with innovative Salesforce solutions that not only meet current CRM needs but also scale for future business growth and digital transformation."
       ],
       "stats": [
-        { "value": "150+", "label": "Projects Completed" },
-        { "value": "95%", "label": "Client Satisfaction" },
-        { "value": "24/7", "label": "Support Available" },
-        { "value": "5+", "label": "Years Experience" }
+        { "value": "200+", "label": "Salesforce Projects" },
+        { "value": "98%", "label": "Client Satisfaction" },
+        { "value": "India", "label": "Based Location" },
+        { "value": "7+", "label": "Years Salesforce Expertise" }
       ]
     },
     "duration": 6000
   },
   {
-    "id": "contact",
+"id": "contact",
     "type": "contact",
     "title": "Get In Touch",
     "content": {
-      "title": "Let's Build Something Amazing",
-      "subtitle": "Ready to transform your digital presence? Get in touch with our team to discuss your project requirements.",
+      "title": "Let's Transform Your Salesforce Journey",
+      "subtitle": "Ready to unlock the full potential of Salesforce? Connect with our certified experts in India to discuss your Salesforce transformation needs.",
       "methods": [
         {
           "icon": "Mail",
@@ -66,9 +66,9 @@
         },
         {
           "icon": "Phone",
-          "label": "Call Us",
-          "value": "+1 (555) 123-4567",
-          "link": "tel:+15551234567"
+          "label": "Call Us (India)",
+          "value": "+91 (0) 123-456-7890",
+          "link": "tel:+911234567890"
         },
         {
           "icon": "Globe",

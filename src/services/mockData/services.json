@@ -1,86 +1,92 @@
 [
   {
-    "id": 1,
-    "name": "Web Development",
-    "description": "Full-stack web applications built with modern technologies like React, Node.js, and cloud-native architectures. We create scalable, secure, and performance-optimized solutions.",
+    "id": "sales-cloud",
+    "title": "Salesforce Sales Cloud",
+    "description": "Complete Sales Cloud implementation and customization services to streamline your sales processes, boost productivity, and accelerate revenue growth. Our India-based certified experts ensure optimal configuration for your business needs.",
+    "icon": "TrendingUp",
+    "features": [
+      "Lead Management & Scoring",
+      "Opportunity Pipeline Optimization",
+      "Sales Forecasting & Analytics",
+      "Custom Workflow Automation",
+      "Territory & Quote Management"
+    ],
+    "technologies": ["Sales Cloud", "Lightning Platform", "Apex", "Visualforce", "Einstein AI"],
+    "category": "Salesforce Cloud"
+  },
+  {
+    "id": "service-cloud",
+    "title": "Salesforce Service Cloud",
+    "description": "Comprehensive Service Cloud solutions to enhance customer support experiences and agent productivity. We implement omnichannel support systems with advanced case management and knowledge base integration.",
+    "icon": "Headphones",
+    "features": [
+      "Case Management & Routing",
+      "Omnichannel Support",
+      "Knowledge Base Setup",
+      "Live Chat & Messaging",
+      "Field Service Management"
+    ],
+    "technologies": ["Service Cloud", "Omni-Channel", "Live Agent", "Field Service", "Community Cloud"],
+    "category": "Salesforce Cloud"
+  },
+  {
+    "id": "custom-development",
+    "title": "Salesforce Custom Development",
+    "description": "Tailored Salesforce applications and customizations built by our expert developers in India. From custom objects to complex integrations, we create solutions that perfectly fit your business requirements.",
     "icon": "Code",
     "features": [
-      "React, Vue.js, Angular Development",
-      "Node.js, Python, PHP Backend",
-      "Progressive Web Apps (PWA)",
-      "Responsive & Mobile-First Design",
-      "SEO Optimization & Performance",
-      "API Development & Integration"
-    ]
+      "Custom Object & Field Creation",
+      "Apex Triggers & Classes",
+      "Lightning Web Components",
+      "Custom Lightning Apps",
+      "Process Builder & Flow"
+    ],
+    "technologies": ["Apex", "Lightning Web Components", "Visualforce", "SOQL", "REST/SOAP APIs"],
+    "category": "Development"
   },
   {
-    "id": 2,
-    "name": "Mobile App Development", 
-    "description": "Native iOS and Android applications, plus cross-platform solutions using React Native and Flutter. From concept to app store deployment.",
-    "icon": "Smartphone",
+    "id": "integrations",
+    "title": "Salesforce Integrations",
+    "description": "Seamless integration solutions connecting Salesforce with your existing systems and third-party applications. Our integration expertise ensures data synchronization and workflow automation across platforms.",
+    "icon": "GitBranch",
     "features": [
-      "Native iOS (Swift) & Android (Kotlin)",
-      "React Native & Flutter",
-      "App Store & Play Store Deployment",
-      "Push Notifications & Analytics",
-      "Offline Functionality",
-      "Third-party API Integration"
-    ]
+      "ERP System Integration",
+      "Marketing Automation Sync",
+      "Data Migration Services",
+      "Real-time API Connections",
+      "Legacy System Modernization"
+    ],
+    "technologies": ["MuleSoft", "REST APIs", "SOAP APIs", "ETL Tools", "Middleware Solutions"],
+    "category": "Integration"
   },
   {
-    "id": 3,
-    "name": "E-commerce Solutions",
-    "description": "Complete online store platforms with advanced features for B2B and B2C businesses. Custom e-commerce solutions that drive conversion and growth.",
-    "icon": "ShoppingCart",
+    "id": "consulting",
+    "title": "Salesforce Consulting",
+    "description": "Strategic Salesforce consulting services from our certified consultants in India. We provide business analysis, solution architecture, and implementation roadmaps to maximize your Salesforce investment.",
+    "icon": "Users",
     "features": [
-      "Custom E-commerce Platforms",
-      "Shopify, WooCommerce, Magento",
-      "Payment Gateway Integration",
-      "Inventory & Order Management",
-      "Multi-vendor Marketplaces",
-      "Analytics & Conversion Optimization"
-    ]
+      "Business Process Analysis",
+      "Solution Architecture Design",
+      "Implementation Strategy",
+      "Change Management",
+      "Training & Adoption"
+    ],
+    "technologies": ["Salesforce Platform", "Business Analysis", "Solution Design", "Best Practices", "Agile Methodology"],
+    "category": "Consulting"
   },
   {
-    "id": 4,
-    "name": "Digital Transformation",
-    "description": "Comprehensive digital strategy and implementation services to modernize business processes, improve efficiency, and accelerate growth.",
-    "icon": "Zap",
+    "id": "analytics-reporting",
+    "title": "Salesforce Analytics & Reporting",
+    "description": "Advanced analytics and reporting solutions leveraging Salesforce's powerful analytics tools. We create comprehensive dashboards and reports that provide actionable business insights and data-driven decision making.",
+    "icon": "BarChart3",
     "features": [
-      "Legacy System Modernization",
-      "Workflow Automation",
-      "Digital Strategy Consulting",
-      "System Integration",
-      "Data Migration & Analytics",
-      "Change Management Support"
-    ]
-  },
-  {
-    "id": 5,
-    "name": "UI/UX Design",
-    "description": "User-centered design that creates intuitive, engaging, and accessible digital experiences. From research and wireframing to high-fidelity prototypes.",
-    "icon": "Palette",
-    "features": [
-      "User Research & Personas",
-      "Information Architecture",
-      "Wireframing & Prototyping",
-      "Visual Design & Branding",
-      "Usability Testing",
-      "Accessibility (WCAG) Compliance"
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Cloud Solutions",
-    "description": "Scalable cloud infrastructure, DevOps automation, and migration services. Expertise in AWS, Azure, and Google Cloud for optimal performance and cost efficiency.",
-    "icon": "Cloud",
-    "features": [
-      "AWS, Azure, Google Cloud",
-      "DevOps & CI/CD Pipelines",
-      "Containerization (Docker, Kubernetes)",
-      "Serverless Architecture",
-"Cloud Migration & Optimization",
-      "Security & Compliance"
-    ]
+      "Custom Dashboard Creation",
+      "Advanced Report Building",
+      "Einstein Analytics Setup",
+      "Data Visualization",
+      "KPI Tracking & Monitoring"
+],
+    "technologies": ["Tableau", "Einstein Analytics", "Reports & Dashboards", "SOQL", "Data Loader"],
+    "category": "Analytics"
   }
 ]
