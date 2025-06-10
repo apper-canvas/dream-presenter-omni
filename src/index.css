@@ -5,10 +5,8 @@
 /* Import react-toastify CSS */
 @import 'react-toastify/dist/ReactToastify.css';
 
-/* Ensure scrollbars are visible */
+/* Clean body styles for proper scrolling */
 body {
-  overflow-y: auto;
-  overflow-x: hidden;
   margin: 0;
   min-height: 100vh;
 }
@@ -16,12 +14,6 @@ body {
 /* Prevent horizontal overflow */
 * {
   max-width: 100%;
-}
-
-/* Main content areas must allow scroll */
-.main-content {
-  overflow-y: auto;
-  height: 100vh;
 }
 
 @layer utilities {
