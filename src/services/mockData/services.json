@@ -1,80 +1,86 @@
 [
   {
-    "id": "web-development",
+    "id": 1,
     "name": "Web Development",
-    "description": "Custom web applications built with modern technologies and best practices for performance, security, and scalability.",
+    "description": "Full-stack web applications built with modern technologies like React, Node.js, and cloud-native architectures. We create scalable, secure, and performance-optimized solutions.",
     "icon": "Code",
     "features": [
-      "Responsive Design",
-      "Performance Optimization",
-      "SEO-Friendly Architecture",
-      "Cross-Browser Compatibility",
-      "Modern JavaScript Frameworks"
+      "React, Vue.js, Angular Development",
+      "Node.js, Python, PHP Backend",
+      "Progressive Web Apps (PWA)",
+      "Responsive & Mobile-First Design",
+      "SEO Optimization & Performance",
+      "API Development & Integration"
     ]
   },
   {
-    "id": "mobile-apps",
-    "name": "Mobile Applications",
-    "description": "Native and cross-platform mobile apps that deliver exceptional user experiences across iOS and Android devices.",
+    "id": 2,
+    "name": "Mobile App Development", 
+    "description": "Native iOS and Android applications, plus cross-platform solutions using React Native and Flutter. From concept to app store deployment.",
     "icon": "Smartphone",
     "features": [
-      "iOS & Android Development",
-      "Cross-Platform Solutions",
-      "App Store Optimization",
-      "Push Notifications",
-      "Offline Functionality"
+      "Native iOS (Swift) & Android (Kotlin)",
+      "React Native & Flutter",
+      "App Store & Play Store Deployment",
+      "Push Notifications & Analytics",
+      "Offline Functionality",
+      "Third-party API Integration"
     ]
   },
   {
-    "id": "ui-ux-design",
-    "name": "UI/UX Design",
-    "description": "User-centered design solutions that combine beautiful aesthetics with intuitive functionality to enhance user engagement.",
-    "icon": "Palette",
-    "features": [
-      "User Research & Analysis",
-      "Wireframing & Prototyping",
-      "Visual Design Systems",
-      "Usability Testing",
-      "Accessibility Standards"
-    ]
-  },
-  {
-    "id": "ecommerce",
-    "name": "E-Commerce Solutions",
-    "description": "Complete e-commerce platforms with secure payment processing, inventory management, and customer relationship tools.",
+    "id": 3,
+    "name": "E-commerce Solutions",
+    "description": "Complete online store platforms with advanced features for B2B and B2C businesses. Custom e-commerce solutions that drive conversion and growth.",
     "icon": "ShoppingCart",
     "features": [
-      "Secure Payment Integration",
-      "Inventory Management",
-      "Customer Analytics",
-      "Multi-Channel Support",
-      "Performance Optimization"
+      "Custom E-commerce Platforms",
+      "Shopify, WooCommerce, Magento",
+      "Payment Gateway Integration",
+      "Inventory & Order Management",
+      "Multi-vendor Marketplaces",
+      "Analytics & Conversion Optimization"
     ]
   },
   {
-    "id": "cloud-solutions",
+    "id": 4,
+    "name": "Digital Transformation",
+    "description": "Comprehensive digital strategy and implementation services to modernize business processes, improve efficiency, and accelerate growth.",
+    "icon": "Zap",
+    "features": [
+      "Legacy System Modernization",
+      "Workflow Automation",
+      "Digital Strategy Consulting",
+      "System Integration",
+      "Data Migration & Analytics",
+      "Change Management Support"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "UI/UX Design",
+    "description": "User-centered design that creates intuitive, engaging, and accessible digital experiences. From research and wireframing to high-fidelity prototypes.",
+    "icon": "Palette",
+    "features": [
+      "User Research & Personas",
+      "Information Architecture",
+      "Wireframing & Prototyping",
+      "Visual Design & Branding",
+      "Usability Testing",
+      "Accessibility (WCAG) Compliance"
+    ]
+  },
+  {
+    "id": 6,
     "name": "Cloud Solutions",
-    "description": "Scalable cloud infrastructure and deployment strategies that ensure your applications are fast, secure, and always available.",
+    "description": "Scalable cloud infrastructure, DevOps automation, and migration services. Expertise in AWS, Azure, and Google Cloud for optimal performance and cost efficiency.",
     "icon": "Cloud",
     "features": [
-      "AWS/Azure Integration",
-      "Auto-Scaling Infrastructure",
-      "Data Backup & Recovery",
-      "Security & Compliance",
-      "24/7 Monitoring"
-    ]
-  },
-  {
-    "id": "consulting",
-    "name": "Digital Consulting",
-    "description": "Strategic technology consulting to help businesses navigate digital transformation and optimize their tech stack.",
-    "icon": "Users",
-    "features": [
-      "Technology Assessment",
-      "Digital Strategy Planning",
-      "Process Optimization",
-      "Team Training",
-      "Ongoing Support"
+      "AWS, Azure, Google Cloud",
+      "DevOps & CI/CD Pipelines",
+      "Containerization (Docker, Kubernetes)",
+      "Serverless Architecture",
+"Cloud Migration & Optimization",
+      "Security & Compliance"
     ]
   }
 ]

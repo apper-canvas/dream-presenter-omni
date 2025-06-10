@@ -3,22 +3,22 @@
     "id": "hero",
     "type": "hero",
     "title": "Dreamwares",
-    "content": {
+"content": {
       "title": "Dreamwares",
-      "subtitle": "Transforming Digital Dreams into Reality with Cutting-Edge Web Solutions",
-      "cta": "Explore Our Services"
+      "subtitle": "Transforming Businesses Through Innovative Digital Solutions & Expert Development Services",
+      "cta": "Discover Our Expertise"
     },
     "duration": 6000
   },
   {
     "id": "services",
     "type": "services", 
-    "title": "Our Services",
+    "title": "Our Expertise",
     "content": {
-      "title": "What We Do",
-      "subtitle": "Comprehensive digital solutions tailored to elevate your business in the modern marketplace"
+      "title": "Our Expertise",
+      "subtitle": "Comprehensive technology solutions delivering measurable results for businesses across industries. From web development to digital transformation - we make your vision reality."
     },
-    "duration": 6000
+    "duration": 8000
   },
   {
     "id": "portfolio",
